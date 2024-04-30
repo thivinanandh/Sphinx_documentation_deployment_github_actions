@@ -1,0 +1,5 @@
+numpy>=1.21,<=1.23.5
+# vtk
+rich==12.5.1
+black
+pre-commit

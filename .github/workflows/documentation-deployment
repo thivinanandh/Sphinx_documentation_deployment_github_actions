@@ -2,8 +2,8 @@ name: "Documentation Deploy"
 
 on: 
   push:
-    tags:
-      - "*"
+    branches:
+      - main
 
 jobs:
   docs:
